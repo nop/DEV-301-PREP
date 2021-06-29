@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	background: black;
+	color: #c9d1d9;
+	font-family: Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segroe UI Emoji;
+}
+
+header {
+	background: #161B22;
+	text-align: center;
+}
+
+header > h1 {
+	margin-top: 0;
+	margin-bottom: 0.33em;
+	font-size: 2.5em;
+}
+header > h2 {
+	margin-top: 0.5em;
+}
+
+main {
+	margin: 0 20% 0 20%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+}
+
+h1 {
+	color: #c9d1d9;
+}
+
+h2 {
+	color: lightslategray;
+}
+
+a:link, a:visited, a:active, a:hover {
+	color: #58a6ff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
